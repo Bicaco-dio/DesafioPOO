@@ -1,2 +1,2 @@
 # DesafioPOO
-Repositório om os fontes do Desafio de POO 
+Repositório com os fontes do Desafio de POO 
